@@ -1,0 +1,188 @@
+body{
+    text-align: center;
+}
+.name{
+    font-family: cursive;
+    color: #66bfbf;
+    font-size: 70px;
+    font-weight: 2;
+    line-height: 10px;
+}
+.sec1{
+    background-color: #eaf6f6;
+}
+
+.description{
+    color: #66bfbf
+}
+.cloud1{
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-bottom: 30px;
+}
+.cloud2{
+    padding-left: 400px ;
+    display: block;
+    margin-top: 70px;
+}
+.mountain{
+    margin-top: 0;
+}
+.skills{
+    color: #41aea9;
+    font-size: 40px;
+}
+.techskillimg{
+    margin-left: 0;
+    height: 250px;
+    width: 300px;
+    float: left;
+    margin-left: 300px;
+    padding-right: 20px;
+}
+.headingtechskill{
+    font-size: 30px;
+    color: #41aea9;
+    text-align: left;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.techskill{
+    text-align: left;
+    font-size: 20px;
+    color: #41aea9;
+    padding-left: 20px;
+}
+.personalskillimg{
+    height: 200px;
+    width: 200px;
+    float: right;
+    padding-right: 400px;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.headingpersonalskill{
+    font-size: 30px;
+    color: #41aea9;
+    text-align: right;
+    padding-top: 40px;
+}
+.personalskill{
+    text-align: right;
+    font-size: 20px;
+    color: #41aea9;
+    padding-bottom: 100px;
+}
+.publicskillimg{
+    margin-left: 0;
+    height: 250px;
+    width: 300px;
+    float: left;
+    margin-left: 300px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.headingpublicskill{
+    font-size: 30px;
+    color: #41aea9;
+    text-align: left;
+    padding-top: 10px;
+}
+.publicskill{
+    text-align: left;
+    font-size: 20px;
+    color: #41aea9;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.para{
+    line-height: 20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    color: #41aea9;
+}
+h4{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.sec3{
+    background-color: #eaf6f6;
+}
+.project
+{
+    padding-top: 50px;
+    color: #41aea9;
+    font-size: 40px;
+}
+.academicproimg{
+    margin-left: 0;
+    height: 220px;
+    width: 300px;
+    float: left;
+    margin-left: 300px;
+    padding-right: 20px;
+}
+.headingacademicpro
+{
+    font-size: 30px;
+    color: #41aea9;
+    text-align: left;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.academicpro
+{
+    text-align: left;
+    font-size: 20px;
+    color: #41aea9;
+    padding-left: 20px;
+}
+.indproimg{
+    height: 200px;
+    width: 200px;
+    float: right;
+    padding-right: 400px;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.headingindpro{
+    font-size: 30px;
+    color: #41aea9;
+    text-align: right;
+    padding-top: 40px;
+}
+.indpro{
+    text-align: right;
+    font-size: 20px;
+    color: #41aea9;
+    padding-bottom: 100px;
+}
+.education{
+    color: #41aea9;
+    font-size: 40px;
+}
+.eduimg{
+    margin-left: 0;
+    height: 250px;
+    width: 300px;
+    float: left;
+    margin-left: 300px;
+    padding-right: 20px;
+}
+.edu
+{
+    text-align: left;
+    font-size: 20px;
+    color: #41aea9;
+    padding-bottom: 100px;
+}
+.footer{
+    background-color: #eaf6f6;
+}
+.contact{
+    padding-top: 20px;
+    color: #41aea9;
+    font-size: 30px;
+}
